@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Software Engineer **C++**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **What do you wanna know**
 
 - 📫 How to reach me **xlearnmore@protonmail.com**
 

@@ -1,29 +1,72 @@
-<h1 align="center">Hi 👋, I'm xlearnmore aka Nurhaq Mustakim</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+---
+name: @xlearnmore-coding-skill
+description: "GitHub profile skill from @xlearnmore. Use it when the task would benefit from mimicking this developer's repo choices, coding style, and implementation techniques."
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xlearnmore&label=Profile%20views&color=0e75b6&style=flat" alt="xlearnmore" /> </p>
+## What they tend to build
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xlearnmore" alt="xlearnmore" /></a> </p>
+- Small, practical utilities rather than large platforms. The clearest repo is a **Windows Forms desktop tool** for converting images to WebP.
+- Feature sets are straightforward and task-driven: **select files/folders, batch process, adjust a quality setting, choose an output directory, show progress, handle errors**.
+- Their profile README suggests a broad but pragmatic interest in **backend work** plus learning **C++**, so expect utility-first code over ornamental abstractions.
 
-- 🌱 I’m currently learning Software Engineer **C++**
+## Coding patterns to mirror
 
-- 💬 Ask me about **What do you wanna know**
+- Prefer **simple event-driven flows**: user clicks a button, selects input, adjusts a setting, runs an action, sees live status.
+- Keep operations **explicit and incremental**:
+  - validate inputs early
+  - process multiple items in a loop
+  - update progress/status after each item
+  - surface failures per-file instead of failing the whole batch
+- Use **clear, descriptive names** for UI actions and settings. Their README language is very literal: “Select Images”, “Select Folder”, “Convert to WebP”, “Output Folder”.
+- Favor **practical error handling** and user feedback over silent failure.
+- In docs and UI text, they tend to use **short feature bullets** and direct instructions, often with emojis for readability.
 
-- 📫 How to reach me **xlearnmore@protonmail.com**
+## Product and UI taste
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/xlearnmoreonx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xlearnmoreonx" height="30" width="40" /></a>
-<a href="https://fb.com/xlearnmoreonfb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xlearnmoreonfb" height="30" width="40" /></a>
-<a href="https://instagram.com/xlearnmoreonig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xlearnmoreonig" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/xlearnmoreonytb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xlearnmoreonytb" height="30" width="40" /></a>
-</p>
+- Strong preference for **utility UI**: uncluttered Windows desktop interfaces that reduce steps to the core workflow.
+- The README emphasizes **discoverability** through labeled buttons, default values, progress tracking, and live status updates.
+- Visual presentation leans friendly and approachable:
+  - emoji-enhanced headings and bullets
+  - checkmarks/arrows for feature lists
+  - “how to use” sections with step-by-step flows
+- Expect UI decisions that prioritize **speed of use** over deep customization.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## Tech stack clues
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xlearnmore&show_icons=true&locale=en&layout=compact" alt="xlearnmore" /></p>
+- Most concrete signal: **C# + Windows Forms + .NET Framework 4.7.2+**.
+- Image conversion uses **FreeImageAPI / FreeImage.dll**.
+- The profile README lists familiarity or interest in:
+  - **C++**
+  - **PHP / Laravel**
+  - **MySQL / MS SQL Server**
+  - **HTML / Bootstrap / Tailwind**
+  - **Git, Nginx, Azure, Google Cloud, Figma**
+- That mix suggests comfort moving between **desktop tooling, backend services, and lightweight web stacks**, but the strongest repo evidence is still desktop C#.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xlearnmore&show_icons=true&locale=en" alt="xlearnmore" /></p>
+## When to inspect repos first
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xlearnmore&" alt="xlearnmore" /></p>
+- If you’re adding anything involving:
+  - **Windows Forms layout or event handlers**
+  - **batch file processing**
+  - **image conversion / file dialogs / output path handling**
+  - **progress bars, status labels, or per-item error reporting**
+- Inspect first if you need to match their exact conventions for:
+  - control naming
+  - how they structure helper methods
+  - whether logic lives in form code-behind or separate classes
+  - how they integrate external DLLs like FreeImage
+- Also inspect before making docs or UI copy, since their public-facing style is **very specific, emoji-heavy, and feature-led**.
+
+## Repo Map
+
+- [xlearnmore/WebPConverterGUI](https://github.com/xlearnmore/WebPConverterGUI): A Windows Forms application that allows users to convert images (JPG, PNG, BMP, GIF) to WebP format using the FreeImageAPI. (2 stars, C#)
+- [xlearnmore/xlearnmore](https://github.com/xlearnmore/xlearnmore): Hello world!, this is my profile (1 stars)
+
+## How To Use This Skill
+
+- Reach for this skill when the user asks for Xlearnmore's style, when the repo stack matches this person's ecosystem, or when studying their real code would reduce made-up output.
+- Pick one or more relevant repositories from the list above based on the current task.
+- Clone the most relevant repository or repositories into `/tmp` for temporary inspection.
+- Study the implementation details, naming patterns, architecture, UI taste, and tooling choices there.
+- Return to the main task and apply the useful patterns you observed instead of copying blindly.
+- Treat the upstream repositories as reference material for style and technique, then adapt them to the current codebase responsibly.

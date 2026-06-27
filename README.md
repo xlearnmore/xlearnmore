@@ -1,8 +1,3 @@
----
-name: @xlearnmore
-description: "GitHub profile skill from @xlearnmore. Use it when the task would benefit from mimicking this developer's repo choices, coding style, and implementation techniques."
----
-
 ## What they tend to build
 
 - Small, practical utilities rather than large platforms. The clearest repo is a **Windows Forms desktop tool** for converting images to WebP.
